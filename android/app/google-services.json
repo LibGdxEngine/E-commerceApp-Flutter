@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "765200745496",
+    "firebase_url": "https://listentoislamicbooks.firebaseio.com",
+    "project_id": "listentoislamicbooks",
+    "storage_bucket": "listentoislamicbooks.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765200745496:android:8f7ccc606771b935afaf6d",
+        "android_client_info": {
+          "package_name": "com.ahmed_fathy.online_market.online_market"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765200745496-btsgk2rcovft9i7tvqt3f7ciioiragl8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcRT2I_wr4ngNqFbgP7SFzTtkTxFrCeiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765200745496-btsgk2rcovft9i7tvqt3f7ciioiragl8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
